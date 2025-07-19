@@ -1,4 +1,4 @@
 # College-Demo
 This is My First Git Repository.
 <br>
-Author - Sakshi Nalawade.
+Author - Sakshi Nalawade. (College)
